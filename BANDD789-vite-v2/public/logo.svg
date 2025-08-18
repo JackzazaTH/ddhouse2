@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#e11d48"/>
+      <stop offset="1" stop-color="#9f1239"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="32" fill="url(#g)"/>
+  <path d="M40 110 V50 L80 30 L120 50 V110 H100 V70 L80 60 L60 70 V110 Z" fill="#fff"/>
+  <text x="80" y="140" font-size="20" text-anchor="middle" fill="#fff" font-family="Arial" font-weight="700">BANDD789</text>
+</svg>
